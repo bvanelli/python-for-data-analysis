@@ -1,4 +1,4 @@
-## Lesson 1 — Python, IPython, Packages, and Jupyter Notebooks
+## Assignment 1 — Python, IPython, Packages, and Jupyter Notebooks
 
 The first lesson is to follow along with the [Jupyter notebooks](../lessons/lesson01.ipynb).
 

@@ -201,3 +201,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Output from lessons
+lessons/*.csv
+lessons/*.txt
+lessons/*.tsv
+lessons/*.xlsx

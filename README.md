@@ -1,0 +1,141 @@
+# Python for Data Analysis
+
+Course in data science. Learn to analyze data of all types using the Python programming language. No programming
+experience is necessary.
+
+Quick links:
+
+- [📚 Lessons](https://github.com/bvanelli/python-for-data-analysis/tree/main/lessons)
+- [🎯 Assignments](https://github.com/bvanelli/python-for-data-analysis/tree/main/assignments)
+- [📝 Feedback form](https://forms.gle/nF62FuuC92EUMTGd8)
+
+Software covered:
+
+* Python 3
+* IPython environment and Jupyter notebooks
+
+Course topics include:
+
+* Fundamentals of Python and its data types
+* Python programming logic, conditional, loops, functions, and Python objects
+* Data analysis packages Numpy and Pandas
+* Plotting packages like Matplotlib
+* Basic Statistics
+* Modules and classes
+* Git and GitHub
+* AI-assisted programming
+
+## Instructor
+
+* Brunno Vanelli
+* Email: [brunno.vanelli@hs-albsig.de](mailto:brunno.vanelli@hs-albsig.de)
+* Pages: [GitHub](https://github.com/bvanelli) [LinkedIn](https://www.linkedin.com/in/bvanelli/)
+
+## Useful links
+
+* [_GitHub repository_](https://github.com/bvanelli/python-for-data-analysis)
+* [_Google Collab_](https://colab.research.google.com/): a platform where you can run Jupyter Notebooks in the cloud
+  without installing anything on your computer.
+*
+
+## Textbooks
+
+* [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/python3/) by Zed Shaw - Step-by-step introduction to
+  Python with no prior knowledge assumed; includes appendix Command Line Crash Course.
+* [_Python for Data Analysis_](https://wesmckinney.com/book/) by Wes McKinney (
+  O'Reilly, freely available as webbook): Manual focused on Pandas, the popular Python package for data analysis,
+  written by its creator.
+
+## Additional Materials
+
+### Command Line Resources
+
+* [Git for Windows](https://git-for-windows.github.io): A BASH emulator and Git software for Windows
+* [_Top 50 Linux commands you must know,
+  DigitalOcean_](https://www.digitalocean.com/community/tutorials/linux-commands):
+  Introduction from DigitalOcean to the most used - and perhaps most useful - linux commands
+
+### Python Resources
+
+* [_Introduction to Python programming, Harvard
+  University_](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
+* [_Introduction to Python, Jetbrains Academy_](https://academy.jetbrains.com/course/16630-introduction-to-python)
+* [_Transforming Code into Beautiful, Idiomatic Python, Raymond Hettinger_](https://www.youtube.com/watch?v=OSGv2VnC0go)
+* [_Real Python_](https://realpython.com/): Insightful blog posts about Python concepts
+* [_MatPlotLib Cheatsheet for beginners_](https://matplotlib.org/cheatsheets/_images/handout-beginner.png)
+
+### Data Analysis Resources
+
+* [_10-minute Tour of Pandas_, by Wes McKinney](https://www.youtube.com/watch?v=St5nl-M50Ww): Basic video tour of Pands,
+  by the creator of Pandas.
+
+### Developer resources
+
+* [_Being a Core Developer in Python_, by Raymond Hettinger](https://www.youtube.com/watch?v=voXVTjwnn-U)
+* [_State of Python 2025: Explore the latest trends and
+  predictions_, by Michael Kennedy](https://blog.jetbrains.com/pycharm/2025/08/the-state-of-python-2025)
+
+## Course Philosophy
+
+1. You learn Python by doing, just like anything else. With a few exceptions, you're not going to break your computer by
+   trying new commands. So try it and see what happens. Print output of commands. Print values of variables. Kick
+   the thing until it works.
+2. Resist the urge to get frustrated and blame the computer when your code doesn't run. Computers are deterministic
+   machines; it's almost always your fault. But that's OK! Your computer will give you error messages that describe what
+   went wrong. Read them and try to understand them.
+3. When you don't know how to do something, google it. You'll be amazed by the solutions you'll find to do _thing x_ if
+   you google "python thing x". StackOverflow will often have high quality answers to your problem.
+4. Resist the urge of using AI tools to do all the job or answer all your questions: doing so will often prevent you
+   from learning from your mistakes. Remember that _"the master has failed more times than the beginner has tried"_.
+5. Learn keyboard shortcuts. Tab-complete in the shell and IPython/Jupyter!
+6. Remember Zed's sage wisdom:
+    * Practice every day.
+    * Don't over-do it. Slow and steady wins the race.
+    * It's alright to be totally lost at first.
+    * When you get stuck, get more information.
+    * Try to solve it yourself first.
+
+## Assignments and Grading
+
+### Weekly Assignments
+
+Weekly take-home assignments will follow the course schedule, reinforcing skills with exercises to analyze and visualize
+scientific data. Assignments will given out on Wednesdays and will be due the following Wednesday.
+Assignments will be graded on effort, completeness, and accuracy.
+
+### Final Project
+
+TODO
+
+### Grading
+
+TODO
+
+## Schedule Overview
+
+The course consists of 15 lessons. As a class, it is taught as one double-class per week for 15 weeks, but the
+material can be covered at any pace. Each one of those classes will consist in a theory class, followed by a
+practical class where questions will be answered.
+
+The classes will cover basic concepts in Python, and will be taught using Jupyter Notebooks.
+
+## Lesson Schedule
+
+Lessons are available as .md or .ipynb files by clicking on the lesson numbers below.
+
+| Lesson	                                                                                      | 	Title	                                                                   |
+|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [1](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson01.ipynb)	  | 	What am I doing here? Python, IPython, Packages, and Jupyter Notebooks 	 |
+| [2](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson02.ipynb)	  | 	Printing, Strings, Numbers, Functions 	                                  |
+| [3](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson03.ipynb)	  | 	Logic, syntax and datatypes	                                             |
+| [4](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson04.ipynb)	  | 	Working with functions and files	                                        |
+| [5](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson05.ipynb)	  | 	Basic data science fundamentals	                                         |
+| [6](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson06.ipynb)	  | 	Pandas I: Intro to vectorized computation	                               |
+| [7](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson07.ipynb)	  | 	Plotting with matplotlib	                                                |
+| [8](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson08.ipynb)	  | 	Pandas II: time series data                                              |
+| [9](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson09.ipynb)	  | 	Statistics Packages                                                      |
+| [10](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson10.ipynb)	 | 	    Basic forecasting: Prophet models                                    |
+| [11](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson11.ipynb)	 | 	    Modules and classes                                                  |
+| [12](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson12.ipynb)	 | 	    Introduction to code testing and concepts of clean coding            |
+| [13](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson13.ipynb)	 | AI assisted development                                                   |
+| [14](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson14.ipynb)	 | 	  Final assignment presentation and feedback                             |
