@@ -207,3 +207,5 @@ lessons/*.csv
 lessons/*.txt
 lessons/*.tsv
 lessons/*.xlsx
+lessons/*.pdf
+lessons/*.png

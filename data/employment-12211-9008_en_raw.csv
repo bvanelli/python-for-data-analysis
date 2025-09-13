@@ -1,0 +1,82 @@
+﻿Tabelle: 12211-9008
+Persons in employment: Germany, years (until 2019), economic;;;;;;;;;;;;;
+sections (WZ2008), sex;;;;;;;;;;;;;
+Microcensus;;;;;;;;;;;;;;;;;;;;;;;;
+Germany;;;;;;;;;;;;;;;;;;;;;;;;
+Persons in employment (1000);;;;;;;;;;;;;;;;;;;;;;;;
+;;;2009;;2010;;2011;;2012;;2013;;2014;;2015;;2016;;2017;;2018;;2019;
+WZ08-A;Agriculture, forestry and fishing;Male;428;e;423;e;426;e;413;e;387;e;383;e;382;e;369;e;361;e;358;e;346;e
+;;Female;220;e;214;e;213;e;200;e;186;e;188;e;180;e;171;e;171;e;165;e;165;e
+;;Total;648;e;637;e;639;e;612;e;573;e;571;e;562;e;540;e;532;e;523;e;510;e
+WZ08-B;Mining and quarrying;Male;91;e;85;e;86;e;84;e;74;e;77;e;72;e;73;e;68;e;63;e;57;e
+;;Female;13;e;11;e;11;e;9;e;10;e;11;e;10;e;12;e;11;e;9;e;11;e
+;;Total;104;e;96;e;97;e;93;e;83;e;88;e;82;e;85;e;79;e;72;e;68;e
+WZ08-C;Manufacturing;Male;5737;e;5658;e;5602;e;5618;e;5553;e;5674;e;5653;e;5761;e;5778;e;5800;e;5831;e
+;;Female;2114;e;2094;e;2095;e;2099;e;2099;e;2138;e;2108;e;2143;e;2149;e;2191;e;2179;e
+;;Total;7851;e;7752;e;7698;e;7717;e;7652;e;7812;e;7761;e;7905;e;7927;e;7991;e;8010;e
+WZ08-D;Electricity, gas, steam, air conditioning supply;Male;253;e;265;e;275;e;285;e;262;e;245;e;250;e;243;e;238;e;235;e;235;e
+;;Female;83;e;85;e;87;e;91;e;92;e;90;e;91;e;80;e;85;e;85;e;92;e
+;;Total;335;e;350;e;362;e;377;e;354;e;335;e;341;e;323;e;323;e;321;e;327;e
+WZ08-E;Water supply,sewerage,waste management,remediation;Male;180;e;168;e;178;e;177;e;171;e;184;e;189;e;183;e;200;e;202;e;207;e
+;;Female;45;e;43;e;44;e;43;e;39;e;37;e;38;e;46;e;47;e;48;e;50;e
+;;Total;225;e;211;e;222;e;220;e;210;e;221;e;227;e;229;e;246;e;250;e;257;e
+WZ08-F;Construction;Male;2243;e;2253;e;2248;e;2292;e;2339;e;2369;e;2364;e;2390;e;2447;e;2432;e;2437;e
+;;Female;324;e;334;e;329;e;332;e;346;e;363;e;359;e;369;e;388;e;389;e;421;e
+;;Total;2567;e;2587;e;2578;e;2624;e;2686;e;2732;e;2723;e;2758;e;2836;e;2821;e;2857;e
+WZ08-G;Wholesale, retail trade, repair of motor vehicles;Male;2437;e;2473;e;2440;e;2472;e;2809;e;2738;e;2765;e;2865;e;2894;e;2938;e;2929;e
+;;Female;2762;e;2794;e;2793;e;2743;e;2874;e;2876;e;2906;e;2957;e;2927;e;2898;e;2849;e
+;;Total;5199;e;5267;e;5233;e;5215;e;5683;e;5614;e;5671;e;5823;e;5821;e;5836;e;5778;e
+WZ08-H;Transportation and storage;Male;1369;e;1365;e;1377;e;1408;e;1431;e;1439;e;1471;e;1513;e;1560;e;1589;e;1614;e
+;;Female;451;e;455;e;458;e;461;e;483;e;485;e;487;e;504;e;522;e;527;e;527;e
+;;Total;1821;e;1820;e;1835;e;1870;e;1914;e;1924;e;1958;e;2017;e;2082;e;2116;e;2141;e
+WZ08-I;Accommodation and food service activities;Male;620;e;630;e;607;e;630;e;633;e;656;e;665;e;694;e;691;e;702;e;720;e
+;;Female;871;e;861;e;867;e;875;e;878;e;874;e;884;e;885;e;883;e;872;e;865;e
+;;Total;1491;e;1491;e;1474;e;1505;e;1511;e;1529;e;1549;e;1579;e;1574;e;1573;e;1585;e
+WZ08-J;Information and communication;Male;796;e;810;e;818;e;855;e;762;e;767;e;796;e;847;e;855;e;887;e;931;e
+;;Female;428;e;424;e;420;e;424;e;390;e;397;e;403;e;411;e;412;e;437;e;438;e
+;;Total;1225;e;1234;e;1238;e;1279;e;1153;e;1164;e;1198;e;1259;e;1267;e;1324;e;1369;e
+WZ08-K;Financial and insurance activities;Male;660;e;652;e;634;e;621;e;617;e;622;e;615;e;645;e;636;e;619;e;607;e
+;;Female;663;e;669;e;655;e;669;e;661;e;652;e;632;e;654;e;651;e;635;e;641;e
+;;Total;1323;e;1321;e;1289;e;1290;e;1278;e;1274;e;1247;e;1300;e;1287;e;1254;e;1248;e
+WZ08-L;Real estate activities;Male;136;e;133;e;135;e;134;e;115;e;104;e;111;e;114;e;107;e;108;e;113;e
+;;Female;140;e;134;e;135;e;137;e;107;e;91;e;102;e;103;e;99;e;98;e;101;e
+;;Total;276;e;267;e;269;e;271;e;221;e;195;e;213;e;216;e;206;e;207;e;213;e
+WZ08-M;Professional, scientific and technical activities;Male;945;e;949;e;1006;e;999;e;1093;e;1089;e;1120;e;1187;e;1219;e;1212;e;1249;e
+;;Female;959;e;975;e;1002;e;987;e;1048;e;1077;e;1102;e;1156;e;1166;e;1169;e;1219;e
+;;Total;1904;e;1924;e;2008;e;1986;e;2141;e;2166;e;2222;e;2343;e;2385;e;2381;e;2469;e
+WZ08-N;Administrative and support service activities;Male;988;e;1059;e;1072;e;1070;e;944;e;958;e;991;e;1039;e;1065;e;1049;e;1091;e
+;;Female;948;e;969;e;968;e;997;e;984;e;997;e;1031;e;1024;e;1042;e;1049;e;1053;e
+;;Total;1936;e;2028;e;2040;e;2067;e;1928;e;1955;e;2022;e;2064;e;2107;e;2098;e;2143;e
+WZ08-O;Public admin. and defence, compulsory social sec.;Male;1527;e;1547;e;1456;e;1447;e;1430;e;1426;e;1389;e;1448;e;1424;e;1434;e;1422;e
+;;Female;1297;e;1310;e;1308;e;1311;e;1361;e;1371;e;1367;e;1438;e;1430;e;1449;e;1483;e
+;;Total;2823;e;2857;e;2764;e;2758;e;2791;e;2796;e;2757;e;2885;e;2853;e;2883;e;2905;e
+WZ08-P;Education;Male;769;e;744;e;738;e;738;e;762;e;777;e;786;e;788;e;798;e;797;e;812;e
+;;Female;1607;e;1635;e;1687;e;1735;e;1785;e;1817;e;1852;e;1898;e;1952;e;2019;e;2069;e
+;;Total;2376;e;2380;e;2426;e;2474;e;2547;e;2594;e;2639;e;2687;e;2750;e;2816;e;2881;e
+WZ08-Q;Human health and social work activities;Male;1136;e;1180;e;1158;e;1176;e;1151;e;1177;e;1203;e;1280;e;1258;e;1262;e;1297;e
+;;Female;3507;e;3624;e;3698;e;3767;e;3772;e;3854;e;3969;e;4072;e;4112;e;4187;e;4314;e
+;;Total;4643;e;4803;e;4856;e;4943;e;4922;e;5031;e;5172;e;5353;e;5371;e;5450;e;5611;e
+WZ08-R;Arts, entertainment and recreation;Male;275;e;280;e;261;e;274;e;267;e;270;e;291;e;283;e;283;e;283;e;300;e
+;;Female;263;e;273;e;269;e;277;e;266;e;268;e;269;e;276;e;283;e;275;e;289;e
+;;Total;538;e;552;e;529;e;551;e;533;e;538;e;560;e;558;e;566;e;559;e;590;e
+WZ08-S;Other service activities;Male;354;e;346;e;348;e;344;e;372;e;365;e;352;e;361;e;368;e;385;e;386;e
+;;Female;791;e;777;e;763;e;766;e;811;e;787;e;786;e;809;e;814;e;795;e;796;e
+;;Total;1145;e;1123;e;1110;e;1110;e;1182;e;1151;e;1138;e;1170;e;1182;e;1180;e;1182;e
+WZ08-T;Private households;Male;12;e;11;e;13;e;13;e;11;e;12;e;14;e;12;e;13;e;13;e;15;e
+;;Female;191;e;197;e;209;e;205;e;225;e;218;e;204;e;215;e;214;e;206;e;200;e
+;;Total;203;e;208;e;222;e;217;e;236;e;231;e;217;e;227;e;226;e;218;e;215;e
+WZ08-U;Extraterritorial organisations and bodies;Male;16;e;18;e;16;e;16;e;12;e;13;e;11;e;10;e;11;e;11;e;10;e
+;;Female;13;e;13;e;10;e;10;e;8;e;7;e;8;e;8;e;10;e;11;e;10;e
+;;Total;29;e;32;e;27;e;26;e;20;e;21;e;18;e;19;e;21;e;22;e;19;e
+__________
+"From 2011:
+Extrapolation using the intercensal population updates based
+on the 2011 Census.
+
+From 2016:
+Updated frame for sampling based on the 2011 Census.
+
+From 2017:
+Excluding population in collective living quarters."
+© Statistisches Bundesamt (Destatis), 2025
+created: 2025-09-12 / 19:55:56

@@ -1,0 +1,232 @@
+Variable,Sector,Year,Female,Male,Total
+WZ08-A,"Agriculture, forestry and fishing",2009,220000,428000,648000
+WZ08-A,"Agriculture, forestry and fishing",2010,214000,423000,637000
+WZ08-A,"Agriculture, forestry and fishing",2011,213000,426000,639000
+WZ08-A,"Agriculture, forestry and fishing",2012,200000,413000,612000
+WZ08-A,"Agriculture, forestry and fishing",2013,186000,387000,573000
+WZ08-A,"Agriculture, forestry and fishing",2014,188000,383000,571000
+WZ08-A,"Agriculture, forestry and fishing",2015,180000,382000,562000
+WZ08-A,"Agriculture, forestry and fishing",2016,171000,369000,540000
+WZ08-A,"Agriculture, forestry and fishing",2017,171000,361000,532000
+WZ08-A,"Agriculture, forestry and fishing",2018,165000,358000,523000
+WZ08-A,"Agriculture, forestry and fishing",2019,165000,346000,510000
+WZ08-B,Mining and quarrying,2009,13000,91000,104000
+WZ08-B,Mining and quarrying,2010,11000,85000,96000
+WZ08-B,Mining and quarrying,2011,11000,86000,97000
+WZ08-B,Mining and quarrying,2012,9000,84000,93000
+WZ08-B,Mining and quarrying,2013,10000,74000,83000
+WZ08-B,Mining and quarrying,2014,11000,77000,88000
+WZ08-B,Mining and quarrying,2015,10000,72000,82000
+WZ08-B,Mining and quarrying,2016,12000,73000,85000
+WZ08-B,Mining and quarrying,2017,11000,68000,79000
+WZ08-B,Mining and quarrying,2018,9000,63000,72000
+WZ08-B,Mining and quarrying,2019,11000,57000,68000
+WZ08-C,Manufacturing,2009,2114000,5737000,7851000
+WZ08-C,Manufacturing,2010,2094000,5658000,7752000
+WZ08-C,Manufacturing,2011,2095000,5602000,7698000
+WZ08-C,Manufacturing,2012,2099000,5618000,7717000
+WZ08-C,Manufacturing,2013,2099000,5553000,7652000
+WZ08-C,Manufacturing,2014,2138000,5674000,7812000
+WZ08-C,Manufacturing,2015,2108000,5653000,7761000
+WZ08-C,Manufacturing,2016,2143000,5761000,7905000
+WZ08-C,Manufacturing,2017,2149000,5778000,7927000
+WZ08-C,Manufacturing,2018,2191000,5800000,7991000
+WZ08-C,Manufacturing,2019,2179000,5831000,8010000
+WZ08-D,"Electricity, gas, steam, air conditioning supply",2009,83000,253000,335000
+WZ08-D,"Electricity, gas, steam, air conditioning supply",2010,85000,265000,350000
+WZ08-D,"Electricity, gas, steam, air conditioning supply",2011,87000,275000,362000
+WZ08-D,"Electricity, gas, steam, air conditioning supply",2012,91000,285000,377000
+WZ08-D,"Electricity, gas, steam, air conditioning supply",2013,92000,262000,354000
+WZ08-D,"Electricity, gas, steam, air conditioning supply",2014,90000,245000,335000
+WZ08-D,"Electricity, gas, steam, air conditioning supply",2015,91000,250000,341000
+WZ08-D,"Electricity, gas, steam, air conditioning supply",2016,80000,243000,323000
+WZ08-D,"Electricity, gas, steam, air conditioning supply",2017,85000,238000,323000
+WZ08-D,"Electricity, gas, steam, air conditioning supply",2018,85000,235000,321000
+WZ08-D,"Electricity, gas, steam, air conditioning supply",2019,92000,235000,327000
+WZ08-E,"Water supply,sewerage,waste management,remediation",2009,45000,180000,225000
+WZ08-E,"Water supply,sewerage,waste management,remediation",2010,43000,168000,211000
+WZ08-E,"Water supply,sewerage,waste management,remediation",2011,44000,178000,222000
+WZ08-E,"Water supply,sewerage,waste management,remediation",2012,43000,177000,220000
+WZ08-E,"Water supply,sewerage,waste management,remediation",2013,39000,171000,210000
+WZ08-E,"Water supply,sewerage,waste management,remediation",2014,37000,184000,221000
+WZ08-E,"Water supply,sewerage,waste management,remediation",2015,38000,189000,227000
+WZ08-E,"Water supply,sewerage,waste management,remediation",2016,46000,183000,229000
+WZ08-E,"Water supply,sewerage,waste management,remediation",2017,47000,200000,246000
+WZ08-E,"Water supply,sewerage,waste management,remediation",2018,48000,202000,250000
+WZ08-E,"Water supply,sewerage,waste management,remediation",2019,50000,207000,257000
+WZ08-F,Construction,2009,324000,2243000,2567000
+WZ08-F,Construction,2010,334000,2253000,2587000
+WZ08-F,Construction,2011,329000,2248000,2578000
+WZ08-F,Construction,2012,332000,2292000,2624000
+WZ08-F,Construction,2013,346000,2339000,2686000
+WZ08-F,Construction,2014,363000,2369000,2732000
+WZ08-F,Construction,2015,359000,2364000,2723000
+WZ08-F,Construction,2016,369000,2390000,2758000
+WZ08-F,Construction,2017,388000,2447000,2836000
+WZ08-F,Construction,2018,389000,2432000,2821000
+WZ08-F,Construction,2019,421000,2437000,2857000
+WZ08-G,"Wholesale, retail trade, repair of motor vehicles",2009,2762000,2437000,5199000
+WZ08-G,"Wholesale, retail trade, repair of motor vehicles",2010,2794000,2473000,5267000
+WZ08-G,"Wholesale, retail trade, repair of motor vehicles",2011,2793000,2440000,5233000
+WZ08-G,"Wholesale, retail trade, repair of motor vehicles",2012,2743000,2472000,5215000
+WZ08-G,"Wholesale, retail trade, repair of motor vehicles",2013,2874000,2809000,5683000
+WZ08-G,"Wholesale, retail trade, repair of motor vehicles",2014,2876000,2738000,5614000
+WZ08-G,"Wholesale, retail trade, repair of motor vehicles",2015,2906000,2765000,5671000
+WZ08-G,"Wholesale, retail trade, repair of motor vehicles",2016,2957000,2865000,5823000
+WZ08-G,"Wholesale, retail trade, repair of motor vehicles",2017,2927000,2894000,5821000
+WZ08-G,"Wholesale, retail trade, repair of motor vehicles",2018,2898000,2938000,5836000
+WZ08-G,"Wholesale, retail trade, repair of motor vehicles",2019,2849000,2929000,5778000
+WZ08-H,Transportation and storage,2009,451000,1369000,1821000
+WZ08-H,Transportation and storage,2010,455000,1365000,1820000
+WZ08-H,Transportation and storage,2011,458000,1377000,1835000
+WZ08-H,Transportation and storage,2012,461000,1408000,1870000
+WZ08-H,Transportation and storage,2013,483000,1431000,1914000
+WZ08-H,Transportation and storage,2014,485000,1439000,1924000
+WZ08-H,Transportation and storage,2015,487000,1471000,1958000
+WZ08-H,Transportation and storage,2016,504000,1513000,2017000
+WZ08-H,Transportation and storage,2017,522000,1560000,2082000
+WZ08-H,Transportation and storage,2018,527000,1589000,2116000
+WZ08-H,Transportation and storage,2019,527000,1614000,2141000
+WZ08-I,Accommodation and food service activities,2009,871000,620000,1491000
+WZ08-I,Accommodation and food service activities,2010,861000,630000,1491000
+WZ08-I,Accommodation and food service activities,2011,867000,607000,1474000
+WZ08-I,Accommodation and food service activities,2012,875000,630000,1505000
+WZ08-I,Accommodation and food service activities,2013,878000,633000,1511000
+WZ08-I,Accommodation and food service activities,2014,874000,656000,1529000
+WZ08-I,Accommodation and food service activities,2015,884000,665000,1549000
+WZ08-I,Accommodation and food service activities,2016,885000,694000,1579000
+WZ08-I,Accommodation and food service activities,2017,883000,691000,1574000
+WZ08-I,Accommodation and food service activities,2018,872000,702000,1573000
+WZ08-I,Accommodation and food service activities,2019,865000,720000,1585000
+WZ08-J,Information and communication,2009,428000,796000,1225000
+WZ08-J,Information and communication,2010,424000,810000,1234000
+WZ08-J,Information and communication,2011,420000,818000,1238000
+WZ08-J,Information and communication,2012,424000,855000,1279000
+WZ08-J,Information and communication,2013,390000,762000,1153000
+WZ08-J,Information and communication,2014,397000,767000,1164000
+WZ08-J,Information and communication,2015,403000,796000,1198000
+WZ08-J,Information and communication,2016,411000,847000,1259000
+WZ08-J,Information and communication,2017,412000,855000,1267000
+WZ08-J,Information and communication,2018,437000,887000,1324000
+WZ08-J,Information and communication,2019,438000,931000,1369000
+WZ08-K,Financial and insurance activities,2009,663000,660000,1323000
+WZ08-K,Financial and insurance activities,2010,669000,652000,1321000
+WZ08-K,Financial and insurance activities,2011,655000,634000,1289000
+WZ08-K,Financial and insurance activities,2012,669000,621000,1290000
+WZ08-K,Financial and insurance activities,2013,661000,617000,1278000
+WZ08-K,Financial and insurance activities,2014,652000,622000,1274000
+WZ08-K,Financial and insurance activities,2015,632000,615000,1247000
+WZ08-K,Financial and insurance activities,2016,654000,645000,1300000
+WZ08-K,Financial and insurance activities,2017,651000,636000,1287000
+WZ08-K,Financial and insurance activities,2018,635000,619000,1254000
+WZ08-K,Financial and insurance activities,2019,641000,607000,1248000
+WZ08-L,Real estate activities,2009,140000,136000,276000
+WZ08-L,Real estate activities,2010,134000,133000,267000
+WZ08-L,Real estate activities,2011,135000,135000,269000
+WZ08-L,Real estate activities,2012,137000,134000,271000
+WZ08-L,Real estate activities,2013,107000,115000,221000
+WZ08-L,Real estate activities,2014,91000,104000,195000
+WZ08-L,Real estate activities,2015,102000,111000,213000
+WZ08-L,Real estate activities,2016,103000,114000,216000
+WZ08-L,Real estate activities,2017,99000,107000,206000
+WZ08-L,Real estate activities,2018,98000,108000,207000
+WZ08-L,Real estate activities,2019,101000,113000,213000
+WZ08-M,"Professional, scientific and technical activities",2009,959000,945000,1904000
+WZ08-M,"Professional, scientific and technical activities",2010,975000,949000,1924000
+WZ08-M,"Professional, scientific and technical activities",2011,1002000,1006000,2008000
+WZ08-M,"Professional, scientific and technical activities",2012,987000,999000,1986000
+WZ08-M,"Professional, scientific and technical activities",2013,1048000,1093000,2141000
+WZ08-M,"Professional, scientific and technical activities",2014,1077000,1089000,2166000
+WZ08-M,"Professional, scientific and technical activities",2015,1102000,1120000,2222000
+WZ08-M,"Professional, scientific and technical activities",2016,1156000,1187000,2343000
+WZ08-M,"Professional, scientific and technical activities",2017,1166000,1219000,2385000
+WZ08-M,"Professional, scientific and technical activities",2018,1169000,1212000,2381000
+WZ08-M,"Professional, scientific and technical activities",2019,1219000,1249000,2469000
+WZ08-N,Administrative and support service activities,2009,948000,988000,1936000
+WZ08-N,Administrative and support service activities,2010,969000,1059000,2028000
+WZ08-N,Administrative and support service activities,2011,968000,1072000,2040000
+WZ08-N,Administrative and support service activities,2012,997000,1070000,2067000
+WZ08-N,Administrative and support service activities,2013,984000,944000,1928000
+WZ08-N,Administrative and support service activities,2014,997000,958000,1955000
+WZ08-N,Administrative and support service activities,2015,1031000,991000,2022000
+WZ08-N,Administrative and support service activities,2016,1024000,1039000,2064000
+WZ08-N,Administrative and support service activities,2017,1042000,1065000,2107000
+WZ08-N,Administrative and support service activities,2018,1049000,1049000,2098000
+WZ08-N,Administrative and support service activities,2019,1053000,1091000,2143000
+WZ08-O,"Public admin. and defence, compulsory social sec.",2009,1297000,1527000,2823000
+WZ08-O,"Public admin. and defence, compulsory social sec.",2010,1310000,1547000,2857000
+WZ08-O,"Public admin. and defence, compulsory social sec.",2011,1308000,1456000,2764000
+WZ08-O,"Public admin. and defence, compulsory social sec.",2012,1311000,1447000,2758000
+WZ08-O,"Public admin. and defence, compulsory social sec.",2013,1361000,1430000,2791000
+WZ08-O,"Public admin. and defence, compulsory social sec.",2014,1371000,1426000,2796000
+WZ08-O,"Public admin. and defence, compulsory social sec.",2015,1367000,1389000,2757000
+WZ08-O,"Public admin. and defence, compulsory social sec.",2016,1438000,1448000,2885000
+WZ08-O,"Public admin. and defence, compulsory social sec.",2017,1430000,1424000,2853000
+WZ08-O,"Public admin. and defence, compulsory social sec.",2018,1449000,1434000,2883000
+WZ08-O,"Public admin. and defence, compulsory social sec.",2019,1483000,1422000,2905000
+WZ08-P,Education,2009,1607000,769000,2376000
+WZ08-P,Education,2010,1635000,744000,2380000
+WZ08-P,Education,2011,1687000,738000,2426000
+WZ08-P,Education,2012,1735000,738000,2474000
+WZ08-P,Education,2013,1785000,762000,2547000
+WZ08-P,Education,2014,1817000,777000,2594000
+WZ08-P,Education,2015,1852000,786000,2639000
+WZ08-P,Education,2016,1898000,788000,2687000
+WZ08-P,Education,2017,1952000,798000,2750000
+WZ08-P,Education,2018,2019000,797000,2816000
+WZ08-P,Education,2019,2069000,812000,2881000
+WZ08-Q,Human health and social work activities,2009,3507000,1136000,4643000
+WZ08-Q,Human health and social work activities,2010,3624000,1180000,4803000
+WZ08-Q,Human health and social work activities,2011,3698000,1158000,4856000
+WZ08-Q,Human health and social work activities,2012,3767000,1176000,4943000
+WZ08-Q,Human health and social work activities,2013,3772000,1151000,4922000
+WZ08-Q,Human health and social work activities,2014,3854000,1177000,5031000
+WZ08-Q,Human health and social work activities,2015,3969000,1203000,5172000
+WZ08-Q,Human health and social work activities,2016,4072000,1280000,5353000
+WZ08-Q,Human health and social work activities,2017,4112000,1258000,5371000
+WZ08-Q,Human health and social work activities,2018,4187000,1262000,5450000
+WZ08-Q,Human health and social work activities,2019,4314000,1297000,5611000
+WZ08-R,"Arts, entertainment and recreation",2009,263000,275000,538000
+WZ08-R,"Arts, entertainment and recreation",2010,273000,280000,552000
+WZ08-R,"Arts, entertainment and recreation",2011,269000,261000,529000
+WZ08-R,"Arts, entertainment and recreation",2012,277000,274000,551000
+WZ08-R,"Arts, entertainment and recreation",2013,266000,267000,533000
+WZ08-R,"Arts, entertainment and recreation",2014,268000,270000,538000
+WZ08-R,"Arts, entertainment and recreation",2015,269000,291000,560000
+WZ08-R,"Arts, entertainment and recreation",2016,276000,283000,558000
+WZ08-R,"Arts, entertainment and recreation",2017,283000,283000,566000
+WZ08-R,"Arts, entertainment and recreation",2018,275000,283000,559000
+WZ08-R,"Arts, entertainment and recreation",2019,289000,300000,590000
+WZ08-S,Other service activities,2009,791000,354000,1145000
+WZ08-S,Other service activities,2010,777000,346000,1123000
+WZ08-S,Other service activities,2011,763000,348000,1110000
+WZ08-S,Other service activities,2012,766000,344000,1110000
+WZ08-S,Other service activities,2013,811000,372000,1182000
+WZ08-S,Other service activities,2014,787000,365000,1151000
+WZ08-S,Other service activities,2015,786000,352000,1138000
+WZ08-S,Other service activities,2016,809000,361000,1170000
+WZ08-S,Other service activities,2017,814000,368000,1182000
+WZ08-S,Other service activities,2018,795000,385000,1180000
+WZ08-S,Other service activities,2019,796000,386000,1182000
+WZ08-T,Private households,2009,191000,12000,203000
+WZ08-T,Private households,2010,197000,11000,208000
+WZ08-T,Private households,2011,209000,13000,222000
+WZ08-T,Private households,2012,205000,13000,217000
+WZ08-T,Private households,2013,225000,11000,236000
+WZ08-T,Private households,2014,218000,12000,231000
+WZ08-T,Private households,2015,204000,14000,217000
+WZ08-T,Private households,2016,215000,12000,227000
+WZ08-T,Private households,2017,214000,13000,226000
+WZ08-T,Private households,2018,206000,13000,218000
+WZ08-T,Private households,2019,200000,15000,215000
+WZ08-U,Extraterritorial organisations and bodies,2009,13000,16000,29000
+WZ08-U,Extraterritorial organisations and bodies,2010,13000,18000,32000
+WZ08-U,Extraterritorial organisations and bodies,2011,10000,16000,27000
+WZ08-U,Extraterritorial organisations and bodies,2012,10000,16000,26000
+WZ08-U,Extraterritorial organisations and bodies,2013,8000,12000,20000
+WZ08-U,Extraterritorial organisations and bodies,2014,7000,13000,21000
+WZ08-U,Extraterritorial organisations and bodies,2015,8000,11000,18000
+WZ08-U,Extraterritorial organisations and bodies,2016,8000,10000,19000
+WZ08-U,Extraterritorial organisations and bodies,2017,10000,11000,21000
+WZ08-U,Extraterritorial organisations and bodies,2018,11000,11000,22000
+WZ08-U,Extraterritorial organisations and bodies,2019,10000,10000,19000

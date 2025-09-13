@@ -36,7 +36,6 @@ Course topics include:
 * [_GitHub repository_](https://github.com/bvanelli/python-for-data-analysis)
 * [_Google Collab_](https://colab.research.google.com/): a platform where you can run Jupyter Notebooks in the cloud
   without installing anything on your computer.
-*
 
 ## Textbooks
 
