@@ -5,7 +5,7 @@ and last name); please run Kernel > Restart & Run All on your notebook before tu
 file used in question B3. For questions where Python scripts are used instead of the Jupyter notebook (questions A1, B1,
 B2), instructions are provided about pasting output/scripts into Markdown cells in your notebook.
 
-## A. Taking input, reading and writing files, functions (Shaw Exercises 11-26)
+## A. Taking input, reading and writing files, functions
 
 1. Write some code, without using functions, that calculates the average of 5 numbers. Do it three different ways:
 
@@ -36,4 +36,10 @@ B2), instructions are provided about pasting output/scripts into Markdown cells 
 - Read your CSV file using Pandas and display the resulting DataFrame.
 - Save your DataFrame to a new file using Pandas.
 
-## **Bonus Assignment:** TODO
+## **Bonus Assignment:** Recursion
+
+A recursive function is a function that calls itself. Previously in [lesson 2](lesson02.md), we have implemented
+the Fibonacci sequence using a for loop. Write a recursive function that takes as input the number `n` 
+calculates n-th number of the Fibonacci sequence.
+
+**Tip:** the n-th number of the Fibonacci sequence is the sum of the two previous numbers, n-1-th and n-2-th.

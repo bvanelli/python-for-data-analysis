@@ -37,8 +37,7 @@ last name). Please run Kernel > Restart & Run All on your notebook before turnin
 
 ## E. Reading files, sets, and saving files
 
-1. Download this text file of
-   past [World Series winners](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/data/world_series_winners.txt).
+1. Download this text file of past [World Series winners](../data/WorldSeriesWinners.txt).
 2. Read in the lines of the file to a list, so that each line is an element of the list.
 3. Create a new list with just those list elements that contain 'New York'; print that list, making sure there's not an
    extra newline character between each line. Print this list (no `print` command required).
@@ -49,5 +48,5 @@ last name). Please run Kernel > Restart & Run All on your notebook before turnin
 ## **Bonus Assignment:** Prime numbers
 
 A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. The assignment
-is creating a list of prime number up to 100, use the concepts of loops, conditionals, and operations learned in the
+is creating a list of prime number up to 100. Use the concepts of loops, conditionals, and operations learned in the
 class.
