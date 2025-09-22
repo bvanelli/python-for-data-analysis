@@ -209,3 +209,6 @@ lessons/*.tsv
 lessons/*.xlsx
 lessons/*.pdf
 lessons/*.png
+
+# Files inside of the data/ folder
+data/**/*.ipynb

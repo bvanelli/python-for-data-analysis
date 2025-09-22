@@ -1,0 +1,4 @@
+attribution_id,organization_name,is_producer,attribution_url,attribution_email
+1,DELFI e.V,1,https://www.delfi.de,
+2,GTFS.de,1,https://wwww.gtfs.de,info@gtfs.de
+3,OpenStreetMap contributors,,https://openstreetmap.org,
