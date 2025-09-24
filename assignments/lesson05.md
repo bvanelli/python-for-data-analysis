@@ -27,7 +27,6 @@
 - Load the `employment-12211-9008_en.csv` file into a Pandas DataFrame.
 - Print the first 5 rows and the column names of the dataset to understand its structure.
 - Identify the total number of rows that belong to the "Education" sector.
-- Calculate the mean number of jobs in construction in each gender, as well as mean for the total number of jobs.
 - On the dataset, choose a year and calculate the percentage of jobs in "Education" in relation to
   the total number of jobs.
 
