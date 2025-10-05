@@ -1,4 +1,4 @@
-# Assignment 06 — Pandas Part I
+# Assignment 06 — Pandas Part I: Basic operations
 
 ## A. Loading data
 

@@ -112,9 +112,8 @@ There are a total of 15 double classes. Each of the double classes will consist 
 
 ### Weekly Assignments
 
-Weekly take-home assignments will follow the course schedule, reinforcing skills with exercises to analyze and visualize
-scientific data. Assignments will given out on Wednesdays and will be due the following Wednesday.
-Assignments will be graded on effort, completeness, and accuracy.
+Weekly take-home assignments will take the course schedule, reinforcing skills with exercises to analyze and visualize
+scientific data. Assignments will be given out on Wednesdays and will be due the following Wednesday.
 
 ### Final Project
 
@@ -123,7 +122,7 @@ TODO
 ### Grading
 
 The grade will be based on a final project that exercises the concepts learned in the class. The grading will be
-done for both the project delivery (notebooks, code, and datasets) as well as a presentation. Both the project and
+done for both the project delivery (notebooks, code, and datasets) and a presentation. Both the project and
 presentation will have the equal weight on the final grade.
 
 ## Schedule Overview
@@ -136,21 +135,22 @@ The classes will cover basic concepts in Python and will be taught using Jupyter
 
 ## Lesson Schedule
 
-Lessons are available as .md or .ipynb files by clicking on the lesson numbers below.
+Lessons' previews are available as .ipynb files by clicking on the lesson numbers below.
 
-| Lesson	                                                                                      | 	Title	                                                                   |
-|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [1](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson01.ipynb)	  | 	What am I doing here? Python, IPython, Packages, and Jupyter Notebooks 	 |
-| [2](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson02.ipynb)	  | 	Printing, Strings, Numbers, Functions 	                                  |
-| [3](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson03.ipynb)	  | 	Logic, syntax and datatypes	                                             |
-| [4](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson04.ipynb)	  | 	Working with functions and files	                                        |
-| [5](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson05.ipynb)	  | 	Basic data science fundamentals	                                         |
-| [6](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson06.ipynb)	  | 	Pandas I: Intro to vectorized computation	                               |
-| [7](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson07.ipynb)	  | 	Plotting with matplotlib	                                                |
-| [8](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson08.ipynb)	  | 	Pandas II: time series data                                              |
-| [9](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson09.ipynb)	  | 	Statistics Packages                                                      |
-| [10](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson10.ipynb)	 | 	    Basic forecasting: Prophet models                                    |
-| [11](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson11.ipynb)	 | 	    Modules and classes                                                  |
-| [12](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson12.ipynb)	 | 	    Introduction to code testing and concepts of clean coding            |
-| [13](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson13.ipynb)	 | AI assisted development                                                   |
-| [14](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson14.ipynb)	 | 	  Final assignment presentation and feedback                             |
+| Lesson	                                                                                       | 	Title	                                              |
+|-----------------------------------------------------------------------------------------------|------------------------------------------------------|
+| [1](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson01.ipynb)	   | Python, IPython, Packages, and Jupyter Notebooks  	  |
+| [2](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson02.ipynb)	   | Printing, Strings, Numbers 	                         |
+| [3](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson03.ipynb)	   | Logic, Loops, Syntax, and datatypes 	                |
+| [4](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson04.ipynb)	   | Taking Input, Reading and Writing Files, Functions 	 |
+| [5](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson05.ipynb)	   | Numpy, Pandas and Matplotlib introduction 	          |
+| [6](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson06.ipynb)	   | Pandas Part I: Basic operations   	                  |
+| [7](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson07.ipynb)	   | Pandas Part II: Data cleaning and wrangling	         |
+| [8](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson08.ipynb)	   | Plotting with Matplotlib                             |
+| [9](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson09.ipynb)	   | Pandas Part III: Group operations                    |
+| [10](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson10.ipynb)	  | Statistics Packages                                  |
+| [11](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson11.ipynb)	  | Pandas Part III: Time Series                         |
+| [12](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson12.ipynb )	 | Modules and Classes                                  |
+| [13](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson13.ipynb)	  | Concepts of clean coding                             |
+| [14](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson14.ipynb)	  | 	  AI assisted development                           |
+| 15                                                                                            | Final assignment presentation                        |   |

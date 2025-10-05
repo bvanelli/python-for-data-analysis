@@ -1,4 +1,4 @@
-# Assignment 02 — Printing, Strings, Functions, Numbers
+# Assignment 02 — Printing, Strings, Numbers
 
 ## A. Python basics, strings, printing (Shaw Exercises 1–10)
 
