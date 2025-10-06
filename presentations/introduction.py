@@ -139,14 +139,28 @@ Remember Zed's sage wisdom:
 * Try to solve it yourself first.
 """
 
+slides_feedback = f"""
+---
+# 🧐 **Feedback**
+--
+Each one of you is invited to fill in the feedback form at the Ilias page. That is a basic evaluation of your 
+**existing knowledge in programming languages**.
+--
+At any given time, there is also a Google form to give feedback on the class available at the README of the Github 
+repository. You can use the form to give feedback of your perception of the lecture.
 
-slides_thanks = f""""
+You may also provide this feedback **multiple times** during the semester.
+"""
+
+slides_thanks = f"""
 ---
 # 🙏 **Thank you**
 
 ## 🙋 **Any questions?**
 
 (now we can start) {fragment(0)}
+
+<img style="height: 100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQxaHk0cnE0NGlrdzN1MXJvcXhxbmc0ZXFsbnVidGZmanN2MnpneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LDBuYzAwu8L4I/giphy.gif"> {fragment(0)}
 """
 ih_thanks = i_last + 1
 
@@ -156,6 +170,7 @@ slides_markdown = (
     + slides_why
     + slides_classes
     + slides_philosophy
+    + slides_feedback
     + slides_thanks
 )
 
