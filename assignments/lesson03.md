@@ -1,7 +1,4 @@
-# Assignment 4 — Logic, Loops, syntax, and datatypes
-
-Complete the tasks below. Please turn in a single Jupyter notebook named `4_first_last.ipynb` (substitute your first and
-last name). Please run Kernel > Restart & Run All on your notebook before turning in.
+# Assignment 3 — Logic, Loops, syntax, and datatypes
 
 ## A. Lists and loops
 
