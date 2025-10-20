@@ -1,43 +1,5 @@
 # CES Python Programming - Fundamentals (2,5 ECTS)
 
-Course topics include:
-
-- Fundamentals of Python and its data types
-- Python programming logic, conditional, loops, functions, and Python objects
-- Data analysis packages NumPy and Pandas
-- Plotting packages like Matplotlib
-- Basic Statistics
-- Modules and classes
-- Git and GitHub
-- AI-assisted programming
-
-## Instructor
-
-- Brunno Vanelli
-- Email: [brunno.vanelli@hs-albsig.de](mailto:brunno.vanelli@hs-albsig.de)
-- Pages: [GitHub](https://github.com/bvanelli) [LinkedIn](https://www.linkedin.com/in/bvanelli/)
-
-## Organization of classes
-
-There are a total of 15 double classes. Each of the double classes will consist of:
-
-- 45 minutes topic introduction, with some live examples using Jupyter Notebooks.
-- 45 minutes exercises, where questions can be asked for each individual topics.
-- One assignment for self-study.
-- Additional reading material for the class content (from the textbook, online resources, etc.)
-- For some of the classes one optional bonus assignment (if you want to learn things more in depth).
-
-## Grading
-
-The grade will be based on a final project that exercises the concepts learned in the class. The grading will be
-done for both the project delivery (notebooks, code, and datasets) as well as a presentation. Both the project and
-presentation will have the equal weight on the final grade.
-
-## Bibliography
-
-- _Learn Python the Hard way_, by Zed Shaw
-- _Python for Data Analysis_, by Wes McKinney
-
 ## Module description
 
 ### 1. Class overview: Python, IPython, Packages, and Jupyter Notebooks
@@ -51,7 +13,7 @@ presentation will have the equal weight on the final grade.
 - **Assignment:** setting up a Github account and forking the class repository **(recommended)**. The content can also
   be downloaded directly without account creation. Afterward, you are invited to run through the exercises on your own.
 
-### 2. Printing, Strings, Functions, Numbers
+### 2. Printing, Strings, Numbers
 
 - Working and formatting strings
 - String interpolation with format and fstrings
@@ -138,7 +100,7 @@ presentation will have the equal weight on the final grade.
 
 - Introduction to the final Assignment (graded)
 - Why do we test? What is test-driven development? Introduction to code testing: pytest, mocking techniques
-- PEP8, coverage, formatting, type system, linters, documentation and best practices
+- PEP8, coverage, formatting, type system, linters, documentation, and best practices
 - Development in a team environment: feature workflows and communication with the team
 - Final assignment individual Q&A
 
