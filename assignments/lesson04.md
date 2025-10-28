@@ -1,10 +1,5 @@
 # Assignment 4 — Taking Input, Reading and Writing Files, Functions
 
-Complete the tasks below. You should turn in a single Jupyter notebook named `3_first_last.ipynb` (substitute your first
-and last name); please run Kernel > Restart & Run All on your notebook before turning in. Also, turn in the input CSV
-file used in question B3. For questions where Python scripts are used instead of the Jupyter notebook (questions A1, B1,
-B2), instructions are provided about pasting output/scripts into Markdown cells in your notebook.
-
 ## A. Taking input, reading and writing files, functions
 
 1. Write some code, without using functions, that calculates the average of 5 numbers. Do it three different ways:
@@ -33,8 +28,42 @@ B2), instructions are provided about pasting output/scripts into Markdown cells 
 - Do the same but use a `with` block and a different one of `read()`, `readline()`, or `readlines()`.
 - Using either of the two above methods to read in the file, then change one row of data (i.e., modify the string or
   list), then write your csv data to a new file.
-- Read your CSV file using Pandas and display the resulting DataFrame.
-- Save your DataFrame to a new file using Pandas.
+
+## B. Reading and writing files with the standard library
+
+1. Using the `csv` module, read in the CSV file you created in the previous question. Print the data to the screen.
+2. Using the `csv` module, write a new CSV file with the same data as the original, but with the header columns 
+   as upper case. Is this file any different from the original?
+
+## C. Functions for file handling
+
+1. Write a function, using the standard CSV library, that reads a CSV file and returns a list of dictionaries. Each
+   element on the list will represent a row on the CSV file, and the keys for the dictionaries will be the column
+   headers. Run your function agains the following CSV file:
+
+```csv
+name,gender,age
+Max Mustermann,male,27
+Erika Mustermann,female,23
+```
+
+You should get the following output:
+
+```json
+[
+    {
+      "name": "Max Mustermann",
+      "gender": "male",
+      "age": "27"
+    },
+    {
+      "name": "Erika Mustermann",
+      "gender": "female",
+      "age": "23"
+    }
+]
+```
+
 
 ## **Bonus Assignment:** Recursion
 
