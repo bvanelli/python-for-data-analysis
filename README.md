@@ -49,6 +49,10 @@ There are a total of 15 double classes. Each of the double classes will consist 
 * [_GitHub repository_](https://github.com/bvanelli/python-for-data-analysis)
 * [_Google Collab_](https://colab.research.google.com/): a platform where you can run Jupyter Notebooks in the cloud
   without installing anything on your computer.
+* [_Jetbrains Student Pack_](https://www.jetbrains.com/academy/student-pack/): Access free JetBrains IDEs, 
+  AI tools, plugins, and courses for the full duration of your studies.
+* [_GitHub Student Developer Pack_](https://education.github.com/pack): Github partner products, GitHub tools, 
+  and other resources that can be claimed with a student account.
 
 ## Textbooks
 
@@ -113,7 +117,11 @@ There are a total of 15 double classes. Each of the double classes will consist 
 ### Weekly Assignments
 
 Weekly take-home assignments will take the course schedule, reinforcing skills with exercises to analyze and visualize
-scientific data. Assignments will be given out on Wednesdays and will be due the following Wednesday.
+scientific data. Assignments will be given out on Wednesdays and can be discussed the following Wednesday during 
+the classes.
+
+Take your time to complete the assignments. You can work on them in your own time, but make sure you use them to 
+practice and improve your skills, as practicing is the best way to learn a programming language.
 
 ### Final Project
 
@@ -154,3 +162,12 @@ Lessons' previews are available as .ipynb files by clicking on the lesson number
 | [13](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson13.ipynb)	  | Concepts of clean coding                             |
 | [14](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson14.ipynb)	  | 	  AI assisted development                           |
 | 15                                                                                            | Final assignment presentation                        |   |
+
+## Acknowledgements
+
+I would like to acknowledge the repository 
+[cuttlefishh/python-for-data-analysis](github.com/cuttlefishh/python-for-data-analysis), that served as an inspiration 
+and template for this repository. Notable changes were replacing the original datasets with ones that were more 
+relevant to me, as well as reworking the exercises (one per class, instead of one every two classes). The Python style
+was also updated to match more modern Python standards, since the language has also evolved since the original 
+template.
