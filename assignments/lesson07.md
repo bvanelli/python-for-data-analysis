@@ -1,8 +1,5 @@
 # Assignment 7 — Pandas Part II: Data cleaning and wrangling
 
-Complete the tasks below. Please turn in a single Jupyter notebook named `7_first_last.ipynb` (substitute your first and
-last name). Please run Kernel > Restart & Run All on your notebook before turning in.
-
 ## The Deutsche Bahn Departures dataset
 
 For this assignment, we will use Pandas to examine the 

@@ -1,8 +1,5 @@
 # Assignment 08 — Plotting with Matplotlib
 
-Complete the tasks below. Please turn in a single Jupyter notebook named `7_first_last.ipynb` (substitute your first and
-last name). Please run Kernel > Restart & Run All on your notebook before turning in.
-
 ## Moons of the Solar System
 
 For this assignment, we will collect and wrangle data about the moons orbiting planets in our Solar System, and then we
