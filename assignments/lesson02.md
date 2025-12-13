@@ -53,7 +53,7 @@ fibonacci(0, 1, 5)
 ## **Bonus Assignment:** GCD (Greatest Common Divisor)
 
 The GCD of two numbers is the largest positive integer that perfectly divides both numbers.
-For example, GCD of 48 and 60 is 12, while the GDC of 10 and 7 is 1.
+For example, GCD of 48 and 60 is 12, while the GCD of 10 and 7 is 1.
 
 1. Create a function called "find_gcd" that takes two numbers as input and outputs the GCD of those two numbers.
 2. Test with different inputs (try pairs like 48,60 or 54,24 or 10,7)
