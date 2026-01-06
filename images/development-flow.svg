@@ -1,0 +1,43 @@
+<!-- Diagram generated with Claude code -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
+  <!-- Background -->
+  <rect width="1200" height="400" fill="transparent"/>
+
+  <!-- Main branch line -->
+  <line x1="50" y1="200" x2="1050" y2="200" stroke="#5B3A8F" stroke-width="4"/>
+  <!-- Dotted continuation -->
+  <line x1="1050" y1="200" x2="1150" y2="200" stroke="#5B3A8F" stroke-width="4" stroke-dasharray="8,8"/>
+
+  <!-- Feature - 1 Branch -->
+  <path d="M 200 200 Q 200 100, 350 100 Q 500 100, 500 200" fill="none" stroke="#5B3A8F" stroke-width="3.5"/>
+  <!-- Feature - 1 Label -->
+  <rect x="270" y="70" width="160" height="50" rx="25" fill="white" stroke="#5B3A8F" stroke-width="2"/>
+  <text x="350" y="102" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#5B3A8F" text-anchor="middle">FEATURE - 1</text>
+
+  <!-- Feature - 2 Branch -->
+  <path d="M 650 200 Q 650 100, 800 100 Q 950 100, 950 200" fill="none" stroke="#5B3A8F" stroke-width="3.5"/>
+  <!-- Feature - 2 Label -->
+  <rect x="720" y="70" width="160" height="50" rx="25" fill="white" stroke="#5B3A8F" stroke-width="2"/>
+  <text x="800" y="102" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#5B3A8F" text-anchor="middle">FEATURE - 2</text>
+
+  <!-- Fix - 1 Branch -->
+  <path d="M 350 200 Q 350 300, 500 300 Q 650 300, 650 200" fill="none" stroke="#5B3A8F" stroke-width="3.5"/>
+  <!-- Fix - 1 Label -->
+  <rect x="450" y="310" width="120" height="50" rx="25" fill="white" stroke="#5B3A8F" stroke-width="2"/>
+  <text x="510" y="342" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#5B3A8F" text-anchor="middle">FIX - 1</text>
+
+  <!-- Fix - 2 Branch -->
+  <path d="M 800 200 Q 800 300, 950 300 Q 1100 300, 1100 200" fill="none" stroke="#5B3A8F" stroke-width="3.5"/>
+  <!-- Fix - 2 Label -->
+  <rect x="900" y="310" width="120" height="50" rx="25" fill="white" stroke="#5B3A8F" stroke-width="2"/>
+  <text x="960" y="342" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#5B3A8F" text-anchor="middle">FIX - 2</text>
+
+  <!-- Commit dots (orange/coral) -->
+  <circle cx="200" cy="200" r="18" fill="#FF8C42" stroke="#5B3A8F" stroke-width="3"/>
+  <circle cx="350" cy="200" r="18" fill="#FF8C42" stroke="#5B3A8F" stroke-width="3"/>
+  <circle cx="500" cy="200" r="18" fill="#FF8C42" stroke="#5B3A8F" stroke-width="3"/>
+  <circle cx="650" cy="200" r="18" fill="#FF8C42" stroke="#5B3A8F" stroke-width="3"/>
+  <circle cx="800" cy="200" r="18" fill="#FF8C42" stroke="#5B3A8F" stroke-width="3"/>
+  <circle cx="950" cy="200" r="18" fill="#FF8C42" stroke="#5B3A8F" stroke-width="3"/>
+  <circle cx="1100" cy="200" r="18" fill="#FF8C42" stroke="#5B3A8F" stroke-width="3"/>
+</svg>
