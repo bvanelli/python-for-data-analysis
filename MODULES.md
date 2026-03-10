@@ -1,10 +1,14 @@
-# CES Python Programming - Fundamentals (2,5 ECTS)
+---
+title: CES Python Programming - Fundamentals (2,5 ECTS)
+author: Brunno Vanelli
+geometry: margin=2.5cm
+---
 
 ## Module description
 
 ### 1. Class overview: Python, IPython, Packages, and Jupyter Notebooks
 
-- Introduction to the course, basic information, introduction to the "notebook-style" exercises and assignments
+- Introduction to the course, basic information, introduction to the "notebook-style" exercises, and assignments
 - Introduction to materials: online resources, textbooks, guidelines for usage of AI tools
 - Quick run-through of what Python is with live-demo
 - Launching a Jupyter Notebook
@@ -43,7 +47,7 @@
 - Basic NumPy arrays, generating arrays from Python objects, array generating functions, array indexing, and linear
   algebra
 - Basic Pandas dataframes, loading data from files, basic column operations
-- Basic matplotlib, basic data selection and plotting
+- Basic matplotlib, basic data selection, and plotting
 
 ### 6. Pandas Part I: Series, files, and indexing
 
@@ -66,12 +70,12 @@
 - Using the API for basic plots
 - Legends, labels, plot types, line types
 - Multiple plots in the same figure
-- Working with axis and different kind of plots (bars, scatter, etc.)
-- Intro to 3D plotting
+- Working with axis and different kinds of plots (bars, scatter, etc.)
+- Introduction to 3D plotting
 
 ### 9. Pandas Part III: Group operations
 
-- How to transform dataframes based on what you want to achieve: Groupby, Pivot table, melt, stack, crosstab
+- How to transform dataframes based on what you want to achieve: Group by, Pivot table, melt, stack, crosstab
 
 ### 10. Statistics Packages
 
@@ -89,30 +93,28 @@
 - Windowing, smoothing, rolling averages
 - Basic time series analysis and forecasting with Prophet.
 
+### 11b. Exercises: Pair programming experiment with students
+
+- Set of exercises and question answering from students.
+- Going over the procedure to analyse a dataset with students.
+
 ### 12. Modules and classes
 
-- What is object oriented programming (OOP)?
+- What is object-oriented programming (OOP)?
 - Importing modules and using classes
 - Basic inheritance and polymorphism
 - Implementing dataclasses as data transfer objects (DTOs)
+- Why do we test? What is test-driven development? Introduction to code testing: pytest
+- Basic package organization
 
-### 13. Concepts of clean coding: test-driven development, code testing, documentation, and best practices
+### 13. Concepts of clean coding
 
-- Introduction to the final Assignment (graded)
-- Why do we test? What is test-driven development? Introduction to code testing: pytest, mocking techniques
-- PEP8, coverage, formatting, type system, linters, documentation, and best practices
-- Development in a team environment: feature workflows and communication with the team
-- Final assignment individual Q&A
+- PEP8, coverage, formatting, type system, linters, documentation, and best practices.
+- Development in a team environment: feature workflows and communication with the team.
 
-### 14. AI assisted development
+### 14. AI-assisted development
 
 - What are LLMs actually doing: what are their limitations?
 - Common pitfalls of AI development: context length, hallucinations
 - How to develop with coding assistants called Agents: building a data processing pipeline using only AI agents
-- What is Model Context Protocol (MCP), and how can it change AI automations in the future
-- Final assignment individual Q&A
-
-### 15. Final assignment presentation and feedback
-
-- Final presentation of the project
-- Feedback on the project
+- What is Model Context Protocol (MCP) and tool usage, and how it has changed AI automations.
