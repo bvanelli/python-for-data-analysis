@@ -112,6 +112,9 @@ There are a total of 15 double classes. Each of the double classes will consist 
     * When you get stuck, get more information.
     * Try to solve it yourself first.
 
+When it comes to AI usage, make sure you read the [Code of Conduct](./CODE_OF_CONDUCT.md). It contains some practical
+guidelines of the dos and don'ts of AI usage.
+
 ## Assignments and Grading
 
 ### Weekly Assignments
