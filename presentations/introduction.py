@@ -97,8 +97,8 @@ Weekly on Wednesday - from 14:00 to 15:30
 --
 ### Hybrid class format
 
-- Classes will be done in person once a month - it will be communicated beforehand
-- For all the other classes, you can find the invitation for the online class on the Ilias page
+- Classes that will be done in person will be communicated beforehand
+- For all the other classes, you can find the invitation for the online class on the Classes Teams Channel.
 
 --
 ### Learning goals
@@ -106,7 +106,7 @@ Weekly on Wednesday - from 14:00 to 15:30
 - The classes will contain real-world datasets: the goal is to develop the skills to manipulate and extract useful 
 information from the data as if they were real-world datasets.
 - The final assignment also will be aligned with the goals above. The final assignment description and datasets will be
-delivered until the Winter break in December.
+delivered until the semester break.
 - The goal of the assignments is to exercises the commands, but also to **understand what to use and when**.
 """
 
@@ -137,6 +137,34 @@ Remember Zed's sage wisdom:
 * It's alright to be totally lost at first.
 * When you get stuck, get more information.
 * Try to solve it yourself first.
+"""
+
+ai_usage = f"""
+---
+# 🤖 **AI Usage**
+
+Read more at https://github.com/bvanelli/python-for-data-analysis/blob/main/CODE_OF_CONDUCT.md
+--
+
+## ✅ **Appropriate Uses:**
+
+- Brainstorming and exploration.
+- Specific technical questions, like syntax help and explanation of error messages.
+- Repetitive tasks like boilerplate and scaffolding.
+- Code review: Asking what you could have done better, after finishing the code by yourself, then applying code
+  suggestions. Here, remember to add _"Be critical"_ to your prompts, as AI has the tendency to agree with you.
+- Understanding library APIs.
+--
+## ❌ **Inappropriate Uses:**
+
+- Submitting generated code without understanding it.
+- Not properly testing AI output. You have to **make mistakes to know what output is wrong**.
+- Using AI to bypass the learning goals of an assignment.
+- Delegating the whole problem: "Write me a solution to this" without incremental engagement. This is, however, 
+something you will do as an experienced developer, once you've learned what the solutions look like.
+## **Remember**
+
+
 """
 
 slides_feedback = f"""
@@ -170,6 +198,7 @@ slides_markdown = (
     + slides_why
     + slides_classes
     + slides_philosophy
+    + ai_usage
     + slides_feedback
     + slides_thanks
 )
