@@ -91,6 +91,10 @@ There are a total of 15 double classes. Each of the double classes will consist 
 * [_State of Python 2025: Explore the latest trends and
   predictions_, by Michael Kennedy on Jetbrains blog](https://blog.jetbrains.com/pycharm/2025/08/the-state-of-python-2025)
 
+### History
+
+* [_The Story of Python and how it took over the world_, by CultRepo](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
+
 ## Course Philosophy
 
 1. You learn Python by doing, just like anything else. With a few exceptions, you're not going to break your computer by
