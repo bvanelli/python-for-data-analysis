@@ -130,16 +130,6 @@ the classes.
 Take your time to complete the assignments. You can work on them in your own time, but make sure you use them to 
 practice and improve your skills, as practicing is the best way to learn a programming language.
 
-### Final Project
-
-TODO
-
-### Grading
-
-The grade will be based on a final project that exercises the concepts learned in the class. The grading will be
-done for both the project delivery (notebooks, code, and datasets) and a presentation. Both the project and
-presentation will have the equal weight on the final grade.
-
 ## Schedule Overview
 
 The course consists of 15 lessons. As a class, it is taught as one double-class per week for 15 weeks, but the
@@ -168,7 +158,6 @@ Lessons' previews are available as .ipynb files by clicking on the lesson number
 | [12](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson12.ipynb)	 | [12](https://github.com/bvanelli/python-for-data-analysis/blob/main/assignments/lesson12.md) | Modules and Classes                                  |
 | [13](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson13.ipynb)	 | [13](https://github.com/bvanelli/python-for-data-analysis/blob/main/assignments/lesson13.md) | Concepts of clean coding                             |
 | [14](https://github.com/bvanelli/python-for-data-analysis/blob/main/lessons/lesson14.ipynb)	 | [14](https://github.com/bvanelli/python-for-data-analysis/blob/main/assignments/lesson14.md) | 	  AI assisted development                           |
-| -                                                                                            | -                                                                                            | Final assignment presentation                        | 
 
 ## Acknowledgements
 
