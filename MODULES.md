@@ -85,6 +85,12 @@ geometry: margin=2.5cm
 - Variance calculation and outlier detection
 - Clustering with scikit-learn
 
+### Recap. Case-study for Airport data
+
+- Cleaning and joining multiple real datasets for airport data
+- Data aggregation and summarization
+- Data analysis and plotting of interesting metrics
+
 ### 11. Basic forecasting: Prophet models
 
 - Pandas timeseries: Converting to and from datetime objects
@@ -92,11 +98,6 @@ geometry: margin=2.5cm
 - Timezone handling
 - Windowing, smoothing, rolling averages
 - Basic time series analysis and forecasting with Prophet.
-
-### 11b. Exercises: Pair programming experiment with students
-
-- Set of exercises and question answering from students.
-- Going over the procedure to analyse a dataset with students.
 
 ### 12. Modules and classes
 
