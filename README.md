@@ -19,30 +19,29 @@ Software covered:
 
 Course topics include:
 
-* Fundamentals of Python and its data types
-* Python programming logic, conditional, loops, functions, and Python objects
-* Data analysis packages Numpy and Pandas
-* Plotting packages like Matplotlib
-* Basic Statistics
-* Modules and classes
-* Concepts of clean code
-* AI-assisted programming
+- Fundamentals of Python and its data types
+- Python programming logic, conditionals, loops, functions, and Python objects
+- Data analysis packages NumPy and Pandas
+- Plotting packages like Matplotlib
+- Basic statistics
+- Modules and classes
+- Concepts of clean code
+- AI-assisted programming
 
 ## Instructor
 
-* Brunno Vanelli
-* Email: [brunno.vanelli@hs-albsig.de](mailto:brunno.vanelli@hs-albsig.de)
-* Pages: [GitHub](https://github.com/bvanelli) [LinkedIn](https://www.linkedin.com/in/bvanelli/)
+- Brunno Vanelli
+- Email: [brunno.vanelli@hs-albsig.de](mailto:brunno.vanelli@hs-albsig.de)
+- Pages: [GitHub](https://github.com/bvanelli) · [LinkedIn](https://www.linkedin.com/in/bvanelli/)
 
 ### Organization of classes
 
-There are a total of 15 double classes. Each of the double classes will consist of:
+There are a total of 15 double classes. The material for each class consists of:
 
-- 45 minutes of topic introduction, with some live examples using Jupyter Notebooks.
-- 45 minutes of exercises, where questions can be asked for each of the topics.
+- One double-class going over the lesson material using some live examples on Jupyter Notebooks.
 - One assignment for self-study.
+- For some classes, an optional bonus assignment (if you want to learn things more in depth).
 - Additional reading material for the class content (from the textbook, online resources, etc.)
-- For some classes one optional bonus assignment (if you want to learn things more in depth).
 
 ## Useful links
 

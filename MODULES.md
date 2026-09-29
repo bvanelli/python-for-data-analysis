@@ -4,6 +4,53 @@ author: Brunno Vanelli
 geometry: margin=2.5cm
 ---
 
+## Overview
+
+An introduction to data science using Python and Pandas with Jupyter notebooks. Software covered:
+
+- Python 3
+- IPython environment and Jupyter notebooks
+
+Course topics include:
+
+- Fundamentals of Python and its data types
+- Python programming logic, conditionals, loops, functions, and Python objects
+- Data analysis packages NumPy and Pandas
+- Plotting packages like Matplotlib
+- Basic statistics
+- Modules and classes
+- Concepts of clean code
+- AI-assisted programming
+
+## Instructor
+
+- Brunno Vanelli
+- Email: [brunno.vanelli@hs-albsig.de](mailto:brunno.vanelli@hs-albsig.de)
+- Pages: [GitHub](https://github.com/bvanelli) · [LinkedIn](https://www.linkedin.com/in/bvanelli/)
+
+## Organization of classes
+
+There are a total of 15 double classes. The material for each class consists of:
+
+- One double-class going over the lesson material using some live examples on Jupyter Notebooks.
+- One assignment for self-study.
+- For some classes, an optional bonus assignment (if you want to learn things more in depth).
+- Additional reading material for the class content (from the textbook, online resources, etc.)
+
+## Grading
+
+The grade will be based on a final project that exercises the concepts learned in the class. The final project is split
+into two parts, and each one of them will exercise your problem-solving skills in a data-science task. Both parts are
+done in groups of two students and will consist of the delivery of a notebook describing how exactly you solved the
+problem.
+
+You will be graded on:
+
+- The explanations of the decisions you made for each task.
+- The thought process behind each decision: why was each decision made?
+- The consistency of your results, and whether you can explain them in a few sentences.
+- Is your notebook well-formatted and easy to read? Is it well-organized?
+
 ## Module description
 
 ### 1. Class overview: Python, IPython, Packages, and Jupyter Notebooks
@@ -119,3 +166,8 @@ geometry: margin=2.5cm
 - Common pitfalls of AI development: context length, hallucinations
 - How to develop with coding assistants called Agents: building a data processing pipeline using only AI agents
 - What is Model Context Protocol (MCP) and tool usage, and how it has changed AI automations.
+
+## Bibliography
+
+- [_Learn Python 3 the Hard Way_, by Zed Shaw](https://learnpythonthehardway.org/python3/)
+- [_Python for Data Analysis_, by Wes McKinney](https://wesmckinney.com/book/)
