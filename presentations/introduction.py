@@ -26,7 +26,6 @@ slides_intro = f"""
 * Basic Statistics
 * Time series data
 * Modules and classes
-* Git and GitHub
 * Clean coding
 * AI-assisted programming
 """
@@ -41,7 +40,7 @@ slides_tutor = f"""
 ### Brunno Vanelli
 
 - Graduated in Control and automation engineering
-- 6 years of experience in Python development
+- Over 7 years of experience in Python development
 - Working at plus10 with data acquisition and real-time transformation for our cloud services
 - Ample experience in design of data pipelines with PostgresSQL databases for data analytics
 - Open-source enthusiast on my free time
@@ -58,7 +57,7 @@ both done by Jetbrains
 --
 Data science is now over half of all Python: 
 
-"This year, **51%** of all surveyed Python developers are involved in data exploration and processing"
+"This year [in 2025], **51%** of all surveyed Python developers are involved in data exploration and processing"
 --
 In 2024, **57%** of developers have used Python for Programming, scripting, and markup, being the second most used 
 language overall. 
@@ -87,17 +86,11 @@ or via email (brunno.vanelli@hs-albsig.de)
 
 Weekly on Wednesday - from 14:00 to 15:30
 
-- Each of the double classes are divided equally into lecture and practical session
-    - The lecture will introduce the day’s topic.
+- The double classes will introduce the day’s topic.
+- Each lesson will have optional reading material from the textbook and online resources, as well as:
     - The practical part will exercise what has been learned during the lecture
     - An optional assignment will accompany each class to dive deeper into the material
-- Each lesson will have optional reading material from the textbook and online resources
 - All material is delivered via Jupyter notebooks, which are often used for data exploration tasks
-
---
-### Hybrid class format
-
-- Classes that will be done in person will be communicated beforehand
 - For all the other classes, you can find the invitation for the online class on the Classes Teams Channel.
 
 --
@@ -162,9 +155,13 @@ Read more at https://github.com/bvanelli/python-for-data-analysis/blob/main/CODE
 - Using AI to bypass the learning goals of an assignment.
 - Delegating the whole problem: "Write me a solution to this" without incremental engagement. This is, however, 
 something you will do as an experienced developer, once you've learned what the solutions look like.
+
+--
 ## **Remember**
 
+> When you can only prompt, you are replaceable.
 
+Remember that your goal here in this course is to learn. Use AI to **explore** and **verify**, not to **avoid**.
 """
 
 slides_feedback = f"""
