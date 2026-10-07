@@ -132,6 +132,25 @@ Remember Zed's sage wisdom:
 * Try to solve it yourself first.
 """
 
+grading = f"""
+---
+# 📝 **Grading**
+--
+
+The grade will be based on a **final project** that exercises the concepts learned in the class.
+
+The final project is **split into two parts**, and each one of them will exercise your problem-solving skills in a data-science task.
+
+Both parts are done in groups of two students and will consist of the delivery of a notebook describing how exactly you solved the problem.
+--
+You will be graded on:
+
+- The explanations of the decisions you made for each task.
+- The thought process behind each decision: why was each decision made?
+- The consistency of your results, and whether you can explain them in a few sentences.
+- Is your notebook well-formatted and easy to read? Is it well-organized?
+"""
+
 ai_usage = f"""
 ---
 # 🤖 **AI Usage**
@@ -195,6 +214,7 @@ slides_markdown = (
     + slides_why
     + slides_classes
     + slides_philosophy
+    + grading
     + ai_usage
     + slides_feedback
     + slides_thanks
